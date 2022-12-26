@@ -1,0 +1,142 @@
+
+  .hero-container {
+  position: absolute;
+  width: 1650.6px;
+  height: 959.41px;
+  left: 0px;
+  top: 0px;
+
+  background: #D7F5DC;
+  }
+  
+  .hero-container > h1 {
+    width: 630.44px;
+    height: 224px;
+    margin-top: 271.66px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 57.3125px;
+    line-height: 75px;
+    /* or 130% */
+    
+    color: #000000;
+    
+    margin-left: 114.63px;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .hero-container > p {
+
+    width: 541.03px;
+    height: 62px;
+    
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22.925px;
+    line-height: 31px;
+    margin-left: 114.63px;
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  
+  .hero-container > img {
+
+    position: absolute;
+    width: 770.28px;
+    height: 646.49px;
+    left: 777.16px;
+    top: 136.4px;
+  }
+  .hero-container > button{
+  /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 22.925px 34.3875px;
+    gap: 11.46px;
+    margin-left: 114.63px;
+    width: 200.77px;
+    height: 79.85px;
+
+    background: #20B15A;
+    border-radius: 18.34px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    border: none;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22.925px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+  }
+  
+  .brand-grid{
+    position: absolute;
+    width: 1650.6px;
+    height: 137.55px;
+    left: 0px;
+    top: 782.89px;
+
+    background: #F8FFF9;
+  }
+  
+  .google{
+    position: absolute;
+    width: 101.68px;
+    height: 33.37px;
+    left: 131.82px;
+    top: 53.02px;
+
+  }
+  .trello{
+
+    position: absolute;
+    width: 162.7px;
+    height: 33.37px;
+    left: 405.44px;
+    top: 53.02px;
+  }
+  .monday{
+    position: absolute;
+    width: 179.82px;
+    height: 33.37px;
+    left: 740.07px;
+    top: 50.44px;
+
+  }
+  .notion{
+    position: absolute;
+    width: 91.83px;
+    height: 33.37px;
+    left: 1091.83px;
+    top: 53.02px;
+
+  }
+  .slack{
+    position: absolute;
+    width: 131px;
+    height: 33.37px;
+    left: 1355.6px;
+    top: 53.02px;
+
+  }
+
+ 
+  
